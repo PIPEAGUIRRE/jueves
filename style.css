@@ -1,0 +1,29 @@
+p{
+   color: chocolate;
+   background-color: black;
+}
+h1{
+    color: darkred;
+}
+h3{
+    color: cadetblue;
+}
+#encabezado-cuatro{
+    color: burlywood;
+}
+body{
+    background-color: black;
+}
+.color-red{
+    color: red;
+}
+.color-blue{
+    color: greenyellow;
+}
+body{
+    background-image: url(https://es.web.img3.acsta.net/medias/nmedia/18/82/04/81/19592828.jpg);
+    background-size: cover;
+}
+.color-blanco{
+    background-color: white;
+}
